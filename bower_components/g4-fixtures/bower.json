@@ -1,0 +1,25 @@
+{
+  "name": "g4-fixtures",
+  "version": "0.1.1",
+  "homepage": "https://github.com/AllegiantAir/g4-fixtures",
+  "authors": [
+    "Nicu <nicu@cloudtroopers.com>"
+  ],
+  "description": "AngularJS persistent fixture store",
+  "main": "g4-fixtures.js",
+  "keywords": [
+    "Angular",
+    "fixture",
+    "persistent",
+    "localStore",
+    "database"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
