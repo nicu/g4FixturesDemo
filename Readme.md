@@ -1,6 +1,6 @@
 # g4FixturesDemo
 
-This application exemplifies a very simple use case for the [g4Fixtures][g4f-repo] library.
+This application exemplifies a very simple use case for the [g4Fixtures][g4f-repo] library. See it in action here: [http://nicu.github.io/g4FixturesDemo][demo]
 
 It displays a list of users, lets you create new random ones or delete existing users. Any changes performed on the list will persist between page refreshes.
 
@@ -23,3 +23,4 @@ If you change the data in `users.fixtures.js`, the library will detect this and 
 
 
 [g4f-repo]: https://github.com/AllegiantAir/g4-fixtures
+[demo]: http://nicu.github.io/g4FixturesDemo/
