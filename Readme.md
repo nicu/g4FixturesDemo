@@ -18,7 +18,8 @@ angular.module('g4FixturesDemo', ['users', 'fixtures'])
     fixtures.run();
   }]);
 ```
-
+A very rudimentary migration functionality is implemented.
+If you change the data in `users.fixtures.js`, the library will detect this and will replace the existing data with the new defaults.
 
 
 [g4f-repo]: https://github.com/AllegiantAir/g4-fixtures
