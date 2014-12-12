@@ -1,6 +1,6 @@
 # g4FixturesDemo
 
-This application exemplifies a very simple use case for the [g4Fixtures][g4f-repo] library. See it in action here: [http://nicu.github.io/g4FixturesDemo][demo]
+This application exemplifies a very simple use case for the [g4Fixtures][g4f-repo] library, that I'm currently working on. See it in action here: [http://nicu.github.io/g4FixturesDemo][demo]
 
 It displays a list of users, lets you create new random ones or delete existing users. Any changes performed on the list will persist between page refreshes.
 
